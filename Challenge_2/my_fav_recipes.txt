@@ -1,16 +1,57 @@
-Recipe Name: Chocolate Cake
-Ingredients: Sugar, Cocoa, Flour, Eggs
-Instructions: Mix all ingredients and bake.
+Recipe Name: Spaghetti Carbonara
+Ingredients: 500g spaghetti, 250g guanciale, 5 eggs, 150g pecorino romano, black pepper
+Instructions: Boil the spaghetti. Cook guanciale until crispy. Whisk eggs and pecorino together. Combine all ingredients with pasta off heat.
+Cuisine Type: Italian
+Taste: savory
+Preparation Time: 35 minutes
 
-Recipe Name: Pancakes
-Ingredients: Flour, Eggs, Milk, Sugar, Butter
-Instructions: Mix ingredients into a batter, pour on a hot pan, and cook until golden brown on both sides.
+Recipe Name: Updated Spaghetti Carbonara
+Ingredients: 500g spaghetti, 200g pancetta, 5 eggs, 150g parmesan cheese, black pepper
+Instructions: Updated cooking instructions: cook pancetta until crispy, whisk eggs with parmesan, and mix with pasta off the heat.
+Cuisine Type: Italian
+Taste: savory
+Preparation Time: 30 minutes
 
-Recipe Name: Spaghetti Bolognese
-Ingredients: Spaghetti, Ground Beef, Tomato Sauce, Onions, Garlic, Olive Oil
-Instructions: Cook spaghetti. In a separate pan, saut� onions and garlic, add ground beef, and mix in tomato sauce. Serve over spaghetti.
+Recipe Name: Chicken Alfredo Pasta
+Ingredients: 500g fettuccine, 2 chicken breasts, 200ml heavy cream, 100g parmesan cheese, 3 garlic cloves, 2 tbsp butter, salt, pepper
+Instructions: Cook fettuccine. Sauté chicken in butter, add garlic, then stir in cream and parmesan. Combine with pasta.
+Cuisine Type: Italian
+Taste: creamy
+Preparation Time: 40 minutes
 
-Recipe Name: Caesar Salad
-Ingredients: Lettuce, Croutons, Parmesan, Caesar Dressing, Grilled Chicken
-Instructions: Mix lettuce, croutons, Parmesan, and Caesar dressing. Add grilled chicken slices on top.
+Recipe Name: Greek Salad
+Ingredients: 2 cucumbers, 4 tomatoes, 1 red onion, 200g feta cheese, 100g black olives, 2 tbsp olive oil, 1 tbsp oregano
+Instructions: Chop cucumbers, tomatoes, and onion. Mix with feta, olives, olive oil, and oregano.
+Cuisine Type: Mediterranean
+Taste: fresh
+Preparation Time: 15 minutes
+
+Recipe Name: Classic Pancakes
+Ingredients: 2 cups all-purpose flour, 2 tbsp sugar, 1 tbsp baking powder, 1/2 tsp salt, 1 1/2 cups milk, 2 eggs, 2 tbsp butter
+Instructions: Mix dry ingredients. Whisk wet ingredients separately and combine. Cook on a hot griddle.
+Cuisine Type: American
+Taste: sweet
+Preparation Time: 20 minutes
+
+Recipe Name: Vegetable Stir-Fry
+Ingredients: 1 broccoli head, 2 carrots, 1 bell pepper, 200g snap peas, 3 tbsp soy sauce, 2 tbsp sesame oil, 2 garlic cloves, 1 tsp ginger
+Instructions: Chop vegetables. Sauté garlic and ginger in sesame oil, add vegetables, and stir in soy sauce.
+Cuisine Type: Asian
+Taste: savory
+Preparation Time: 25 minutes
+
+Recipe Name: Grilled Lemon Herb Chicken
+Ingredients: 4 chicken breasts, 2 lemons, 3 tbsp olive oil, 2 garlic cloves, 1 tbsp dried oregano, 1 tsp salt, 1 tsp black pepper, 1 tbsp fresh parsley
+Instructions: Marinate chicken with lemon juice, olive oil, garlic, oregano, salt, and pepper for at least 30 minutes. Grill until cooked through. Garnish with fresh parsley before serving.
+Cuisine Type: Mediterranean
+Taste: tangy
+Preparation Time: 40 minutes
+
+
+Recipe Name: Classic Spaghetti Bolognese
+Ingredients: 400g spaghetti, 500g minced beef, 1 onion, 2 garlic cloves, 1 can diced tomatoes, 3 tbsp tomato paste, 1 tsp dried basil, 1 tsp dried oregano, 1 tsp salt, 1 tsp black pepper, 2 tbsp olive oil, Parmesan cheese
+Instructions: Cook spaghetti according to package instructions. Saut� onion and garlic in olive oil until soft. Add minced beef and cook until browned. Stir in diced tomatoes, tomato paste, basil, oregano, salt, and pepper. Simmer for 20 minutes. Serve sauce over spaghetti and top with Parmesan cheese.
+Cuisine Type: Italian
+Taste: savory
+Preparation Time: 30 minutes
 

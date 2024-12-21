@@ -1,0 +1,5 @@
+2024-12-21 20:48:45,864 ERROR: Error in chat: Expecting value: line 1 column 1 (char 0) [in D:\HACKATHON\Hackathon\Challenge_2\app.py:107]
+2024-12-21 20:49:51,817 ERROR: Error in chat: Expecting value: line 1 column 1 (char 0) [in D:\HACKATHON\Hackathon\Challenge_2\app.py:107]
+2024-12-21 20:50:40,837 ERROR: Error in chat: Expecting value: line 1 column 1 (char 0) [in D:\HACKATHON\Hackathon\Challenge_2\app.py:107]
+2024-12-21 20:54:02,391 ERROR: Error in add_recipe: Ingredients must be a list [in D:\HACKATHON\Hackathon\Challenge_2\app.py:107]
+2024-12-21 21:02:20,619 ERROR: Error in add_ingredient: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand. [in D:\HACKATHON\Hackathon\Challenge_2\app.py:107]
