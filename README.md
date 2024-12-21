@@ -1,4 +1,4 @@
-# Challange 2
+# Challenge 2
 
 This project is a Flask-based application for managing ingredients and recipes, integrated with a chatbot for personalized recipe suggestions. The system also supports storing recipes in a text file for backup and conversational interactions.
 
