@@ -1,0 +1,16 @@
+Recipe Name: Chocolate Cake
+Ingredients: Sugar, Cocoa, Flour, Eggs
+Instructions: Mix all ingredients and bake.
+
+Recipe Name: Pancakes
+Ingredients: Flour, Eggs, Milk, Sugar, Butter
+Instructions: Mix ingredients into a batter, pour on a hot pan, and cook until golden brown on both sides.
+
+Recipe Name: Spaghetti Bolognese
+Ingredients: Spaghetti, Ground Beef, Tomato Sauce, Onions, Garlic, Olive Oil
+Instructions: Cook spaghetti. In a separate pan, sauté onions and garlic, add ground beef, and mix in tomato sauce. Serve over spaghetti.
+
+Recipe Name: Caesar Salad
+Ingredients: Lettuce, Croutons, Parmesan, Caesar Dressing, Grilled Chicken
+Instructions: Mix lettuce, croutons, Parmesan, and Caesar dressing. Add grilled chicken slices on top.
+
