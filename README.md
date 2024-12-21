@@ -24,7 +24,7 @@ This project is a Flask-based application for managing ingredients and recipes, 
 2. Create and activate a virtual environment:
    ```bash
    python -m venv env
-   source env/bin/activate # On Windows: env\Scripts\activate
+   source env\Scripts\activate 
    ```
 3. Install the required dependencies:
    ```bash
@@ -41,6 +41,14 @@ This project is a Flask-based application for managing ingredients and recipes, 
    python app.py
    ```
 6. Access the application at `http://127.0.0.1:5000`.
+
+7. Used `Postman` to test routes.
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
 
 ## API Documentation
 
